@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 genai.configure(api_key='Your_API_Key')
-mymodel=genai.GenerativeModel('gemini-1.5-flash',system_instruction='''i will give a business idea and small description
+mymodel=genai.GenerativeModel('gemini-2.0-flash',system_instruction='''i will give a business idea and small description
 about my idea, they will be sepaerated by a ;. you have to generate a report with the following
 1. Business Overview
  2. Market research
