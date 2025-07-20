@@ -1,6 +1,6 @@
 # 💼 Business Report Generator using Gemini + Streamlit
 
-This is a simple web application built with **Streamlit** and **Google's Gemini 1.5 Flash** model that generates detailed business reports based on a user-provided **idea** and **description**.
+This is a simple web application built with **Streamlit** and **Google's Gemini 2.0 Flash** model that generates detailed business reports based on a user-provided **idea** and **description**.
 
 ## 🚀 Features
 
@@ -11,7 +11,7 @@ This is a simple web application built with **Streamlit** and **Google's Gemini 
   - Launch and Scale Plan
   - Ways to Raise Capital
 - Clean and interactive UI with **Streamlit**
-- Powered by **Gemini 1.5 Flash** via Google Generative AI
+- Powered by **Gemini 2.0 Flash** via Google Generative AI
 
 ## 🧠 How It Works
 
@@ -92,7 +92,7 @@ Description: A delivery platform that focuses on zero-waste packaging and carbon
 
 ## 📌 Notes
 
-- Make sure your API key has access to Gemini 1.5 Flash.
+- Make sure your API key has access to Gemini 2.0 Flash.
 - Consider setting up API usage limits or error handling for production use.
 
 ## 📃 License
